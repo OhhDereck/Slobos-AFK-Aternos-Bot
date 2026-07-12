@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Freadinhos.aternos.me",
+    "port": 50542,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Bot AFK para o server não fechar",
+        "Essa e uma mensagem automática para manter o server aberto",
+        "Mensagem automática para manter o server aberto"
       ]
     },
     "chat-log": true,
