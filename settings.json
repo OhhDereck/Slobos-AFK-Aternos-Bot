@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Freadinhos.aternos.me:26745",
+    "ip": "Freadinhos.aternos.me",
     "port": 26745,
     "version": "",
     "try-creative": false
