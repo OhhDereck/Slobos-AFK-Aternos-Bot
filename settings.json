@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT AFK",
+    "username": "Computadorzinho",
     "password": "",
     "type": "offline"
   },
@@ -62,7 +62,7 @@
     "combat": false,
     "beds": false,
     "chat": true,
-    "console-commands": false
+    "console-commands": true
   },
   "combat": {
     "attack-mobs": false,
